@@ -1,0 +1,17 @@
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color:var(--primary-color);
+    font-weight: bold;
+   
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color: var(--primary-color);
+   
+}
+a:hover
+{
+color: var(--primary-color)
+
+}
+a:hover { text-decoration: underline; }
