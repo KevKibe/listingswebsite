@@ -41,6 +41,7 @@ height: 600px;
     padding: 20px 20px;
     border-radius: 5px;
     text-align: center;
+   
 }
 .stepbox h1
 {
@@ -59,4 +60,5 @@ height: 600px;
     font-style: italic;
     font-weight: 700;
     text-decoration: underline;
+
 }
