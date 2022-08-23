@@ -1,0 +1,41 @@
+.apartmentbox
+{
+    padding: 10px 10px;
+
+}
+.apartmentbox img
+{
+   width: 100%;
+   height: 250px; 
+   object-fit: cover;
+   border-radius: 5px;
+}
+.apartmentbox
+{
+    font-size: 18px;
+    margin-top: 20px;
+    
+}
+
+.apartment h1
+{
+font-size: 10px;
+margin-top: 20px;
+
+
+}
+.bookbtn
+{
+    text-decoration: none;
+    background-color:black;
+    color:white;
+    padding: 10px 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.bookbtn:hover
+{
+    background-color: var(--primary-color);
+    font-size: 105%;
+}

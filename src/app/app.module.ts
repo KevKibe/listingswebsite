@@ -12,6 +12,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { ApartmentsComponent } from './apartments/apartments.component';
 import { FaqComponent } from './faq/faq.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +23,8 @@ import { FaqComponent } from './faq/faq.component';
     AboutComponent,
     ContactComponent,
     ApartmentsComponent,
-    FaqComponent
+    FaqComponent,
+  
   ],
   imports: [
     BrowserModule,
