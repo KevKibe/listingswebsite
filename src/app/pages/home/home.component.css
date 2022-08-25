@@ -1,9 +1,12 @@
+
 .banner
 {
     background-size: cover;
     background-image: url(../../../../../Desktop/Listingsweb/dylan-vo-eqo9oHrcCl8-unsplash.jpg);
 background-position: center ;
 height: 600px;
+
+    
 
 }
 .content
@@ -16,25 +19,30 @@ height: 600px;
 
 .banner p
 {
-    color: white;
+    background:linear-gradient(90deg, #ffcc2f, #ef5734);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
     font-size: 50px;
-    
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+   
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 }
 .content a
 {
-    text-decoration: none;
+    text-decoration:none;
     background-color: white;
-    color: var(--primary-color);
+    color:#FF8714;
     padding: 10px 20px;
     border-radius: 5px;
     margin-top: 20px;
 }
 .content a:hover
 {
-    background-color: var(--primary-color);
+    background-color:#FBBA00;
     color: antiquewhite;
+    font-size: 18px;
 }
 .stepbox
 {
@@ -46,7 +54,9 @@ height: 600px;
 }
 .stepbox h1
 {
-    color:var(--primary-color);
+    background:linear-gradient(90deg, #ffcc2f, #ef5734);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 40px;
 }
 .stepbox p
@@ -57,7 +67,9 @@ height: 600px;
 }
 .highlight
 {
-    color: var(--primary-color);
+    background:linear-gradient(90deg, #ffcc2f, #ef5734);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-style: italic;
     font-weight: 700;
     text-decoration: underline;
@@ -67,6 +79,7 @@ height: 600px;
 .highlight:hover
 {
     font-size: 105%;
+    
 }
 .apartmentbox
 {
@@ -99,12 +112,16 @@ font-weight: bold;
 {
     text-decoration: none;
     background-color: black;
-    color: white;
+
+    color: #FF8714;
     padding: 10px 10px;
     font-size: 15px;
     border-radius: 5px;
 }
 .viewmorebtn:hover
 {
-    background-color: var(--primary-color);
+ 
+    background-color:#FBBA00;
+    color: antiquewhite;
+    font-size: 18px;
 }

@@ -6,11 +6,13 @@ import { AboutComponent } from './pages/about/about.component';
 
 import { ContactComponent } from './pages/contact/contact.component';
 import { HomeComponent } from './pages/home/home.component';
+import { HousepageComponent } from './pages/housepage/housepage.component';
 import { MenuComponent } from './pages/menu/menu.component';
 
 const routes: Routes = [
   {path:'',component:HomeComponent},
   {path:'menu',component:MenuComponent},
+  {path:'apartments/:id',component:HousepageComponent},
   {path:'about',component:AboutComponent},
   {path:'contact',component:ContactComponent},
   {path:'apartments' ,component:ApartmentsComponent},

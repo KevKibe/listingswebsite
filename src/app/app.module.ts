@@ -11,6 +11,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { ApartmentsComponent } from './apartments/apartments.component';
 import { FaqComponent } from './faq/faq.component';
+import { HousepageComponent } from './pages/housepage/housepage.component';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { FaqComponent } from './faq/faq.component';
     ContactComponent,
     ApartmentsComponent,
     FaqComponent,
+    HousepageComponent,
   
   ],
   imports: [
