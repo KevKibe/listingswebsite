@@ -14,7 +14,7 @@ export class HousepageComponent implements OnInit {
 getapartmentId:any;
 apartmentData:any;
   ngOnInit(): void {
-    this.getapartmentId = this.param.snapshot
+    this.getapartmentId = this.param.snapshot.paramMap.get('id');
     console.log(this.getapartmentId,'getapartment');
     if(this.getapartmentId)
     {

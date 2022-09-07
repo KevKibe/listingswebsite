@@ -48,9 +48,11 @@
        <img src="{{ad.apartmentImg}}"/>
        <h5>{{ad.apartmentName}}</h5>
        <p>{{ad.apartmentPrice}}</p>
+       <br>
+     <a class="bookbtn" [routerLink]="['/apartments',ad.id]" >Contact Now</a>
 
     </div>
     </div>
 </div>
-<a routerLink="apartments" class="viewmorebtn">View More<i class="bi bi-arrow-right"></i></a>
+<a routerLink="apartments" class="viewmorebtn">VIEW MORE <i class="bi bi-arrow-right-circle-fill"></i></a>
 </div>
