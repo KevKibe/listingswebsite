@@ -12,6 +12,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { ApartmentsComponent } from './apartments/apartments.component';
 import { FaqComponent } from './faq/faq.component';
 import { HousepageComponent } from './pages/housepage/housepage.component';
+import { SigninComponent } from './pages/signin/signin.component';
 
 
 @NgModule({
@@ -26,6 +27,7 @@ import { HousepageComponent } from './pages/housepage/housepage.component';
     ApartmentsComponent,
     FaqComponent,
     HousepageComponent,
+    SigninComponent,
   
   ],
   imports: [

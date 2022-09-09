@@ -1,0 +1,235 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative;  display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__sign_up {
+	top: 0px;
+	left: 0px;
+   
+}
+
+
+#samuel_regan_asante_cbptapcrfcc_unsplash_1 {
+	top: 0px;
+	left: 0px;
+    background-size: cover;
+   
+    position: relative;
+	
+	background-image:url(../../../../../Desktop/Listingsweb/samuel-regan-asante-CbptaPcrFCc-unsplash.jpg);
+    width: 1440px;
+	height: 1024px;
+}
+
+
+#rectangle_1 {
+	opacity:0.88999998569489;
+	top: 288px;
+	left: 504px;
+	width: 520px;
+	height: 568px;
+	-ms-border-radius: 61px;
+	-o-border-radius: 61px;
+	-moz-border-radius: 61px;
+	-webkit-border-radius: 61px;
+	border-radius: 61px;
+	background:rgba(232,196,195,0.89);
+    
+}
+
+
+#login {
+	top: 306px;
+	left: 653px;
+	width: 234px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Zilla Slab;
+	font-size: 48px;
+	font-style: italic;
+	text-align: center;
+	color:#000000;
+}
+
+
+#don_t_have_an_account_sign_up {
+	top: 722px;
+	left: 593px;
+	width: 352px;
+	height: 86px;
+	overflow: hidden;
+	font-family: Zilla Slab;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 385px;
+	left: 555px;
+	width: 430.01px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.4deg);
+	-o-transform:rotate(0.4deg);
+	-webkit-transform:rotate(0.4deg);
+	-moz-transform:rotate(0.4deg);
+	transform:rotate(0.4deg);
+	background:#000000;
+}
+
+
+#username {
+	top: 424px;
+	left: 495px;
+	width: 225px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Zilla Slab;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	color:#535151;
+}
+
+
+#email {
+	top: 502px;
+	left: 484px;
+	width: 196px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Zilla Slab;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	color:#545151;
+}
+
+
+#password {
+	top: 581px;
+	left: 503px;
+	width: 196px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Zilla Slab;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	color:#545151;
+}
+
+
+#line_2 {
+	top: 533px;
+	left: 684px;
+	width: 2px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#line_3 {
+	top: 477px;
+	left: 556px;
+	width: 430.01px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.4deg);
+	-o-transform:rotate(0.4deg);
+	-webkit-transform:rotate(0.4deg);
+	-moz-transform:rotate(0.4deg);
+	transform:rotate(0.4deg);
+	background:#000000;
+}
+
+
+#line_4 {
+	top: 551px;
+	left: 549px;
+	width: 426px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.27deg);
+	-o-transform:rotate(0.27deg);
+	-webkit-transform:rotate(0.27deg);
+	-moz-transform:rotate(0.27deg);
+	transform:rotate(0.27deg);
+	background:#000000;
+}
+
+
+#line_5 {
+	top: 627px;
+	left: 549px;
+	width: 426.01px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.4deg);
+	-o-transform:rotate(0.4deg);
+	-webkit-transform:rotate(0.4deg);
+	-moz-transform:rotate(0.4deg);
+	transform:rotate(0.4deg);
+	background:#000000;
+}
+
+
+#download_1 {
+	top: 593px;
+	left: 950px;
+	width: 34px;
+	height: 34px;
+}
+
+
+#rectangle_2 {
+	top: 651px;
+	left: 548px;
+	width: 427.99px;
+	height: 44.99px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	-ms-transform:rotate(0.44deg);
+	-o-transform:rotate(0.44deg);
+	-webkit-transform:rotate(0.44deg);
+	-moz-transform:rotate(0.44deg);
+	transform:rotate(0.44deg);
+	background:rgba(238,151,111,1);
+}
+
+
+#login_ek1 {
+	top: 655px;
+	left: 629px;
+	width: 279px;
+	height: 54px;
+	overflow: hidden;
+	
+	-ms-transform:rotate(0.63deg);
+	-o-transform:rotate(0.63deg);
+	-webkit-transform:rotate(0.63deg);
+	-moz-transform:rotate(0.63deg);
+	transform:rotate(0.63deg);
+	font-family: Roboto Serif;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	color:#F5F5F5;
+}
+
+
+
+/* Add your custom CSS here */

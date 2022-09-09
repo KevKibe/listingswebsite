@@ -8,6 +8,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { HomeComponent } from './pages/home/home.component';
 import { HousepageComponent } from './pages/housepage/housepage.component';
 import { MenuComponent } from './pages/menu/menu.component';
+import { SigninComponent } from './pages/signin/signin.component';
 
 const routes: Routes = [
   {path:'',component:HomeComponent},
@@ -16,7 +17,7 @@ const routes: Routes = [
   {path:'about',component:AboutComponent},
   {path:'contact',component:ContactComponent},
   {path:'apartments' ,component:ApartmentsComponent},
-  
+  {path:'signin' ,component:SigninComponent},
   {path:'faq' ,component:FaqComponent}
 ];
 
