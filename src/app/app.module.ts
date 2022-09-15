@@ -13,6 +13,8 @@ import { ApartmentsComponent } from './apartments/apartments.component';
 import { FaqComponent } from './faq/faq.component';
 import { HousepageComponent } from './pages/housepage/housepage.component';
 import { SigninComponent } from './pages/signin/signin.component';
+import { ProfileComponent } from './profile/profile.component';
+import { LoginComponent } from './login/login.component';
 
 
 @NgModule({
@@ -28,6 +30,8 @@ import { SigninComponent } from './pages/signin/signin.component';
     FaqComponent,
     HousepageComponent,
     SigninComponent,
+    ProfileComponent,
+    LoginComponent,
   
   ],
   imports: [
